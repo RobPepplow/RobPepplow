@@ -18,7 +18,8 @@ As tecnologias nas quais foram estudadas incluem ReactJS, NodeJS, Vue.js, HTML, 
 
 <div align="center">
   <br/>
-  <img align="center" alt="VueJs" height="40" width="60" src="">
+  <img align="center" alt="VueJs" height="40" width="60" src="![image](https://user-images.githubusercontent.com/106199387/215277947-27219632-632f-4451-8052-de53d56c8537.png)
+">
   <img align="center" alt="HTML" height="40" width="60" src="">
   <img align="center" alt="CSS" height="40" width="60" src="">
   <img align="center" alt="JavaScript" height="60" width="80" src="">
