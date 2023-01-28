@@ -26,7 +26,7 @@ As tecnologias nas quais foram estudadas incluem ReactJS, NodeJS, Vue.js, HTML, 
   <img align="center" alt="Nodejs" height="60" width="80" src="https://user-images.githubusercontent.com/106199387/215278383-d39b30b3-5b1e-4405-906a-d7bc930da2b6.png"/>
   <img align="center" alt="Firebase" height="60" width="80" src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-vertical.png?hl=pt-br"/>
   <img align="center" alt="MySql" height="60" width="80" src=""/>
-  <img align="center" alt="MongoDb" height="60" width="80" src="https://www.pngwing.com/en/free-png-kxupc"/>
+  <img align="center" alt="MongoDb" height="60" width="80" src="https://www.pngwing.com/en/search?q=mongodb"/>
   <img align="center" alt="Express" height="60" width="80" src=""/>
   <img align="center" alt="Nodemon" height="60" width="80" src=""/>
   <img align="center" alt="Sass" height="60" width="80" src=""/>
