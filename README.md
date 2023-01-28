@@ -27,17 +27,15 @@ As tecnologias nas quais foram estudadas incluem ReactJS, NodeJS, Vue.js, HTML, 
   <img align="center" alt="Firebase" height="60" width="80" src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-vertical.png?hl=pt-br"/>
   <img align="center" alt="MySql" height="60" width="80" src=""/>
   <img align="center" alt="MongoDb" height="60" width="80" src="[https://www.pngwing.com/en/search?q=mongodb](https://www.pngwing.com/en/free-png-kxupc)"/>
-  <img align="center" alt="Express" height="60" width="80" src=""/>
-  <img align="center" alt="Nodemon" height="60" width="80" src=""/>
-  <img align="center" alt="Sass" height="60" width="80" src=""/>
-  <img align="center" alt="Linux" height="60" width="80" src=""/>
+   <img align="center" alt="Sass" height="60" width="80" src="https://user-images.githubusercontent.com/106199387/215278840-b6599b75-f050-412b-854b-9729914f1b95.png"/>
+  <img align="center" alt="Linux" height="60" width="80" src="https://user-images.githubusercontent.com/106199387/215278818-26331d58-b10e-4cb1-8523-007d9756df0f.png"/>
   <img align="center" alt="React" height="60" width="80" src=""/>
 
 </div>
 
 <br/>
 <div align="center" display="flex">
-<a href = "mailto:robsonpepplow@gmail.com"><img height="45" width="45" alt="Entre em contato: robsonpepplow@gmail.com" src="" target="_blank">   </a>
+<a href = "mailto:robsonpepplow@gmail.com"><img height="45" width="45" alt="Entre em contato: robsonpepplow@gmail.com" src="https://user-images.githubusercontent.com/106199387/215278918-09bfab55-007e-4d5d-aa06-92599b3b1ddf.png" target="_blank">   </a>
 <a href="https://www.linkedin.com/in/RobsonPepplow" target="_blank"><img height="45" width="45" alt="LinkedIn: RobsonPepplow" src="" target="_blank">   </a>
   
   ![ Animação de cobra ](https://github.com/RobPepplow/blob/output/github-contribution-grid-snake.svg)
