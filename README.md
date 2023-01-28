@@ -28,7 +28,7 @@ As tecnologias nas quais foram estudadas incluem ReactJS, NodeJS, Vue.js, HTML, 
   <img align="center" alt="Linux" height="60" width="80" src="https://user-images.githubusercontent.com/106199387/215278818-26331d58-b10e-4cb1-8523-007d9756df0f.png"/>
    <img align="center" alt="MongoDb" height="60" width="80" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"/>
  <img align="center" alt="Mysql" height="60" width="80" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"/>
- <img align="center" alt="Linux" height="60" width="80" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"/>
+ <img align="center" alt="Linux" height="60" width="80" src="https://icon-icons.com/pt/icone/arquivo-tipo-nodemon/130299/>
  
  
   
