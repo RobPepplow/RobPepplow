@@ -2,7 +2,7 @@ README.md
 
 ##  Olá! Me chamo **Robson Pepplow Lopes** 👋
 
-## 🙏 É um prazer te ver por aqui!🔥🔥
+## Seja Bem Vindo!🙏 
 <br>
 
 - 👤 Tenho 39 anos e atualmente trabalho como autônomo na área de e-commerce. No entanto, tenho um grande desejo de atuar na área de programação web como programador Full Stack.
