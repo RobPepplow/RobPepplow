@@ -1,13 +1,16 @@
 README.md
 
-##  Olá 👋
-Me chamo **Robson Pepplow Lopes** , é um prazer te ver por aqui!
-- 💻 Tenho 39 anos e atualmente trabalho como autônomo na área de e-commerce. No entanto, tenho um grande desejo de atuar na área de programação web como programador Full Stack.
-- 👨‍💻 Durante os últimos 6 meses, dediquei-me a estudar e aprimorar minhas habilidades tanto em soft skills quanto em hard skills, buscando uma oportunidade na área para adquirir mais conhecimento e trabalhar com o que gosto.
+##  Olá! Me chamo **Robson Pepplow Lopes** 👋
+
+## 🙏 É um prazer te ver por aqui!🔥🔥
+<br>
+
+- 👤 Tenho 39 anos e atualmente trabalho como autônomo na área de e-commerce. No entanto, tenho um grande desejo de atuar na área de programação web como programador Full Stack.
+- 📚 Durante os últimos 6 meses, dediquei-me a estudar e aprimorar minhas habilidades tanto em soft skills quanto em hard skills, buscando uma oportunidade na área para adquirir mais conhecimento e trabalhar com o que gosto.
 As tecnologias nas quais foram estudadas incluem ReactJS, NodeJS, Vue.js, HTML, CSS, JavaScript, um pouco de TypeScript e banco de dados como Firebase, MongoDB e MySQL, além de construção de servidor para API com NodeJS, Express e Nodemon.
 - 🏫 Atualmente, estou cursando o 2º semestre de Sistemas de Informação na Estácio, no modelo EAD, em Curitiba-PR.
 
-- 📫 Contato: **robsonpepplow@gmail.com**
+- ✉️ Contato: **robsonpepplow@gmail.com**
 - ⚡ Projetos: bit.ly/m/RobPepplow
 <hr>
 <div align="center" style="backgrand: blue;">
@@ -17,18 +20,34 @@ As tecnologias nas quais foram estudadas incluem ReactJS, NodeJS, Vue.js, HTML, 
 <div align="center" gap="20">
   <br/>
 
-   <img align="center" alt="Linux" height="60" width="80" src="https://user-images.githubusercontent.com/106199387/215278818-26331d58-b10e-4cb1-8523-007d9756df0f.png"/>
-  <img align="center" alt="HTML" height="60" width="80" src="https://user-images.githubusercontent.com/106199387/215278254-ff024068-9366-43dd-baf5-2acd25b28ac6.png"/> 
-  <img align="center" alt="CSS" height="60" width="80" src="https://user-images.githubusercontent.com/106199387/215278231-ff96ae6d-06d6-4833-aa89-3bf215a7ea01.png"/> 
-  <img align="center" alt="JavaScript" height="60" width="80" src="https://user-images.githubusercontent.com/106199387/215278276-b8dc6387-9677-4ff2-b2d3-9c4cb043588a.png"/>
-   <img align="center" alt="Nodejs" height="60" width="80" src="https://user-images.githubusercontent.com/106199387/215278383-d39b30b3-5b1e-4405-906a-d7bc930da2b6.png"/> 
-  <img align="center" alt="React" height="60" width="80" src="https://user-images.githubusercontent.com/106199387/215278170-a18a2c55-acf6-4d3a-9194-2e8777a6186a.png"/>
-   <img align="center" alt="VueJs" height="60" width="60" src="https://user-images.githubusercontent.com/106199387/215278064-8b3e0d5d-2b2c-4138-9127-731ed8cb5f6e.png"/>
-    <img align="center" alt="Sass" height="60" width="80" src="https://user-images.githubusercontent.com/106199387/215278840-b6599b75-f050-412b-854b-9729914f1b95.png"/> 
-  <img align="center" alt="Firebase" height="60" width="80" src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-vertical.png?hl=pt-br"/>  
-   <img align="center" alt="MongoDb" height="60" width="80" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"/>
- <img align="center" alt="Mysql" height="60" width="80" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"/>
+   <img align="center" alt="Linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+   <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
+  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+   <img align="center" alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> 
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+   <img align="center" alt="VueJs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+    <img align="center" alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>   
+   <img align="center" alt="MongoDb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+ <img align="center" alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+ <img align="center" alt="expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+ <img align="center" alt="" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+ <img align="center" alt="" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/> 
+ <img align="center" alt="" src="https://img.shields.io/badge/Firebase-007bd6?style=for-the-badge&logo=firebase&logoColor=gold"/>
+ <img align="center" alt="" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blu"/>
+ <img align="center" alt="" src=""/>
+ <img align="center" alt="" src="https://img.shields.io/badge/Mongoose-4ea94b?style=for-the-badge&logo=mongoose&logoColor=blu"/>
+ <img align="center" alt="" src="https://img.shields.io/badge/VisualStudioCode-35495E?style=for-the-badge&logo=visualstudio&logoColor=blue"/>
+
+ 
 </div>
+<hr>
+
+![RobPepplow GitHub stats](https://github-readme-stats.vercel.app/api?username=RobPepplow&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobPepplow&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
 <hr>
 <br/>
 
