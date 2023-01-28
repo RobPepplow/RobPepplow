@@ -9,9 +9,9 @@ As tecnologias nas quais foram estudadas incluem ReactJS, NodeJS, Vue.js, HTML, 
 
 - 📫 Contato: **robsonpepplow@gmail.com**
 - ⚡ LinkedIn: https://www.linkedin.com/in/robson-pepplow-lopes-6a625b1a0/ 
-- 🤳 Fone: (41) 99810-2337
+- 
 
-<div align="center">
+<div align="center" style="backgrand: blue;">
   <h3>CONHECIMENTO NESTAS TECNOLOGIAS</h3>
 </div>
 
