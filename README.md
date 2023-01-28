@@ -9,32 +9,27 @@ As tecnologias nas quais foram estudadas incluem ReactJS, NodeJS, Vue.js, HTML, 
 
 - 📫 Contato: **robsonpepplow@gmail.com**
 - ⚡ Projetos: bit.ly/m/RobPepplow
- 
-
+<hr>
 <div align="center" style="backgrand: blue;">
   <h3>CONHECIMENTO NESTAS TECNOLOGIAS</h3>
 </div>
 
 <div align="center" gap="20">
   <br/>
-  <img align="center" alt="VueJs" height="60" width="60" src="https://user-images.githubusercontent.com/106199387/215278064-8b3e0d5d-2b2c-4138-9127-731ed8cb5f6e.png"/>
-  <img align="center" alt="HTML" height="60" width="80" src="https://user-images.githubusercontent.com/106199387/215278254-ff024068-9366-43dd-baf5-2acd25b28ac6.png"/>
-  <img align="center" alt="CSS" height="60" width="80" src="https://user-images.githubusercontent.com/106199387/215278231-ff96ae6d-06d6-4833-aa89-3bf215a7ea01.png"/>
+
+   <img align="center" alt="Linux" height="60" width="80" src="https://user-images.githubusercontent.com/106199387/215278818-26331d58-b10e-4cb1-8523-007d9756df0f.png"/>
+  <img align="center" alt="HTML" height="60" width="80" src="https://user-images.githubusercontent.com/106199387/215278254-ff024068-9366-43dd-baf5-2acd25b28ac6.png"/> 
+  <img align="center" alt="CSS" height="60" width="80" src="https://user-images.githubusercontent.com/106199387/215278231-ff96ae6d-06d6-4833-aa89-3bf215a7ea01.png"/> 
   <img align="center" alt="JavaScript" height="60" width="80" src="https://user-images.githubusercontent.com/106199387/215278276-b8dc6387-9677-4ff2-b2d3-9c4cb043588a.png"/>
+   <img align="center" alt="Nodejs" height="60" width="80" src="https://user-images.githubusercontent.com/106199387/215278383-d39b30b3-5b1e-4405-906a-d7bc930da2b6.png"/> 
   <img align="center" alt="React" height="60" width="80" src="https://user-images.githubusercontent.com/106199387/215278170-a18a2c55-acf6-4d3a-9194-2e8777a6186a.png"/>
-  <img align="center" alt="Nodejs" height="60" width="80" src="https://user-images.githubusercontent.com/106199387/215278383-d39b30b3-5b1e-4405-906a-d7bc930da2b6.png"/>
+   <img align="center" alt="VueJs" height="60" width="60" src="https://user-images.githubusercontent.com/106199387/215278064-8b3e0d5d-2b2c-4138-9127-731ed8cb5f6e.png"/>
+    <img align="center" alt="Sass" height="60" width="80" src="https://user-images.githubusercontent.com/106199387/215278840-b6599b75-f050-412b-854b-9729914f1b95.png"/> 
   <img align="center" alt="Firebase" height="60" width="80" src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-vertical.png?hl=pt-br"/>  
-   <img align="center" alt="Sass" height="60" width="80" src="https://user-images.githubusercontent.com/106199387/215278840-b6599b75-f050-412b-854b-9729914f1b95.png"/>
-  <img align="center" alt="Linux" height="60" width="80" src="https://user-images.githubusercontent.com/106199387/215278818-26331d58-b10e-4cb1-8523-007d9756df0f.png"/>
    <img align="center" alt="MongoDb" height="60" width="80" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"/>
  <img align="center" alt="Mysql" height="60" width="80" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"/>
- <img align="center" alt="Linux" height="60" width="80" src="https://icon-icons.com/pt/icone/arquivo-tipo-nodemon/130299/>
- 
- 
-  
-
 </div>
-
+<hr>
 <br/>
 
 <div align="center">
