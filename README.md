@@ -13,10 +13,7 @@ As tecnologias nas quais foram estudadas incluem ReactJS, NodeJS, Vue.js, HTML, 
 
 <div align="center">
   <a href="https://github.com/RobPepplow">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api? user =RobsonPepplow&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/? user =RobsonPepplow&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api? username =RobsonPepplow&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/? username =RobsonPepplow&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="40" width"60" src="https://www.flaticon.com/br/icone-gratis/logotipo-do-github_25231"/>
 </div>
 
 <div align="center">
