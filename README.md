@@ -17,7 +17,7 @@ As tecnologias nas quais foram estudadas incluem ReactJS, NodeJS, Vue.js, HTML, 
 
 <div align="center">
   <br/>
-  <img align="center" alt="VueJs" height="40" width="60" src="https://user-images.githubusercontent.com/106199387/215278064-8b3e0d5d-2b2c-4138-9127-731ed8cb5f6e.png"/>
+  <img align="center" alt="VueJs" height="60" width="60" src="https://user-images.githubusercontent.com/106199387/215278064-8b3e0d5d-2b2c-4138-9127-731ed8cb5f6e.png"/>
   <img align="center" alt="HTML" height="60" width="80" src="https://user-images.githubusercontent.com/106199387/215278254-ff024068-9366-43dd-baf5-2acd25b28ac6.png"/>
   <img align="center" alt="CSS" height="60" width="80" src="https://user-images.githubusercontent.com/106199387/215278231-ff96ae6d-06d6-4833-aa89-3bf215a7ea01.png"/>
   <img align="center" alt="JavaScript" height="60" width="80" src="https://user-images.githubusercontent.com/106199387/215278276-b8dc6387-9677-4ff2-b2d3-9c4cb043588a.png"/>
