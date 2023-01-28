@@ -13,7 +13,7 @@ As tecnologias nas quais foram estudadas incluem ReactJS, NodeJS, Vue.js, HTML, 
 
 <div align="center">
   <a href="https://github.com/RobPepplow">
-  <img height="40" width"60" src="![image](https://user-images.githubusercontent.com/106199387/215277343-78a0a4fd-d469-4b0b-ac5e-b25906bd96c4.png)"/>
+  <img height="40" width"60" src="https://user-images.githubusercontent.com/106199387/215277343-78a0a4fd-d469-4b0b-ac5e-b25906bd96c4.png"></a>
 </div>
 
 <div align="center">
