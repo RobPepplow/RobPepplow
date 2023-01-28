@@ -18,23 +18,20 @@ As tecnologias nas quais foram estudadas incluem ReactJS, NodeJS, Vue.js, HTML, 
 
 <div align="center">
   <br/>
-  <img align="center" alt="Rapha-Ts" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain .svg">
-  <img align="center" alt="Rapha-React" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original .svg">
-  <img align="center" alt="Rapha-HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original .svg">
-  <img align="center" alt="Rapha-CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original .svg">
-  <img align="center" alt="Rapha-PHP" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain .svg">
-  <img align="center" alt="Rapha-MySQL" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original -wordmark.svg">
-  <img align="center" alt="Rapha-Node" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original -wordmark.svg" />
-  <img align="center" alt="Rapha-Docker" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original -wordmark.svg" />
-  <img align="center" alt="Rapha-Postgres" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original -wordmark.svg" />
-  <img align="center" alt="Rapha-Linux" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original .svg" />
+  <img align="center" alt="VueJs" height="40" width="60" src="">
+  <img align="center" alt="HTML" height="40" width="60" src="">
+  <img align="center" alt="CSS" height="40" width="60" src="">
+  <img align="center" alt="JavaScript" height="60" width="80" src="">
+
 </div>
-##
+
 <br/>
 <div align="center" display="flex">
-<a href = "mailto:robsonpepplow@gmail.com"><img height="45" width="45" alt="Entre em contato: robsonpepplow@gmail.com" src="https:// cdn-icons-png.flaticon.com/512/9051/9051851.png" target="_blank">   </a>
-<a href="https://www.linkedin.com/in/RobsonPepplow" target="_blank"><img height="45" width="45" alt="LinkedIn: RobsonPepplow" src="https:/ /cdn-icons-png.flaticon.com/512/3536/3536505.png" target="_blank">   </a>
+<a href = "mailto:robsonpepplow@gmail.com"><img height="45" width="45" alt="Entre em contato: robsonpepplow@gmail.com" src="" target="_blank">   </a>
+<a href="https://www.linkedin.com/in/RobsonPepplow" target="_blank"><img height="45" width="45" alt="LinkedIn: RobsonPepplow" src="" target="_blank">   </a>
   
-  ![ Animação de cobra ](https://github.com/RobsonPepplow/RobsonPepplow/blob/output/github-contribution-grid-snake.svg)
+  ![ Animação de cobra ](https://github.com/RobPepplow/blob/output/github-contribution-grid-snake.svg)
+  
+ ## TEL: <img height="20" width="20" src="https://www.pngwing.com/en/free-png-paeov"/>(41) 99810-2337 
   
 </div>
