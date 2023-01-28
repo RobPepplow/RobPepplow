@@ -12,7 +12,7 @@ As tecnologias nas quais foram estudadas incluem ReactJS, NodeJS, Vue.js, HTML, 
 - 🤳 Fone: (41) 99810-2337
 
 <div align="center">
-  <h1>CONHECIMENTO NESTAS TECNOLOGIAS</h1>
+  <h3>CONHECIMENTO NESTAS TECNOLOGIAS</h3>
 </div>
 
 <div align="center">
@@ -33,7 +33,7 @@ As tecnologias nas quais foram estudadas incluem ReactJS, NodeJS, Vue.js, HTML, 
 <br/>
 
 <div align="center">
-  <h1>CONTATOS</h1>
+  <h3>CONTATOS</h3>
 </div>
 <div align="center" display="flex">
 <a href = "mailto:robsonpepplow@gmail.com"><img height="45" width="45" alt="Entre em contato: robsonpepplow@gmail.com" src="https://user-images.githubusercontent.com/106199387/215278918-09bfab55-007e-4d5d-aa06-92599b3b1ddf.png" target="_blank">   </a>
