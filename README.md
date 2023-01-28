@@ -24,22 +24,20 @@ As tecnologias nas quais foram estudadas incluem ReactJS, NodeJS, Vue.js, HTML, 
   <img align="center" alt="JavaScript" height="60" width="80" src="https://user-images.githubusercontent.com/106199387/215278276-b8dc6387-9677-4ff2-b2d3-9c4cb043588a.png"/>
   <img align="center" alt="React" height="60" width="80" src="https://user-images.githubusercontent.com/106199387/215278170-a18a2c55-acf6-4d3a-9194-2e8777a6186a.png"/>
   <img align="center" alt="Nodejs" height="60" width="80" src="https://user-images.githubusercontent.com/106199387/215278383-d39b30b3-5b1e-4405-906a-d7bc930da2b6.png"/>
-  <img align="center" alt="Firebase" height="60" width="80" src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-vertical.png?hl=pt-br"/>
-  <img align="center" alt="MySql" height="60" width="80" src=""/>
-  <img align="center" alt="MongoDb" height="60" width="80" src="[https://www.pngwing.com/en/search?q=mongodb](https://www.pngwing.com/en/free-png-kxupc)"/>
+  <img align="center" alt="Firebase" height="60" width="80" src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-vertical.png?hl=pt-br"/>  
    <img align="center" alt="Sass" height="60" width="80" src="https://user-images.githubusercontent.com/106199387/215278840-b6599b75-f050-412b-854b-9729914f1b95.png"/>
   <img align="center" alt="Linux" height="60" width="80" src="https://user-images.githubusercontent.com/106199387/215278818-26331d58-b10e-4cb1-8523-007d9756df0f.png"/>
-  <img align="center" alt="React" height="60" width="80" src=""/>
+  
 
 </div>
 
 <br/>
 <div align="center" display="flex">
 <a href = "mailto:robsonpepplow@gmail.com"><img height="45" width="45" alt="Entre em contato: robsonpepplow@gmail.com" src="https://user-images.githubusercontent.com/106199387/215278918-09bfab55-007e-4d5d-aa06-92599b3b1ddf.png" target="_blank">   </a>
-<a href="https://www.linkedin.com/in/RobsonPepplow" target="_blank"><img height="45" width="45" alt="LinkedIn: RobsonPepplow" src="" target="_blank">   </a>
+<a href="https://www.linkedin.com/in/RobsonPepplow" target="_blank"><img height="45" width="45" alt="LinkedIn: RobsonPepplow" src="https://user-images.githubusercontent.com/106199387/215278978-a0132796-df9b-48cb-b36a-1296e5c0dd4f.png" target="_blank">   </a>
   
   ![ Animação de cobra ](https://github.com/RobPepplow/blob/output/github-contribution-grid-snake.svg)
   
- ## TEL: <img height="20" width="20" src="https://www.pngwing.com/en/free-png-paeov"/>(41) 99810-2337 
+ ## TEL: <img height="20" width="20" src="https://user-images.githubusercontent.com/106199387/215279006-d0d6053d-6d04-4ef4-aec7-cf36fd133454.png"/>(41) 99810-2337 
   
 </div>
