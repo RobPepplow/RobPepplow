@@ -38,6 +38,8 @@ As tecnologias nas quais foram estudadas incluem ReactJS, NodeJS, Vue.js, HTML, 
  <img align="center" alt="" src=""/>
  <img align="center" alt="" src="https://img.shields.io/badge/Mongoose-4ea94b?style=for-the-badge&logo=mongoose&logoColor=blu"/>
  <img align="center" alt="" src="https://img.shields.io/badge/VisualStudioCode-35495E?style=for-the-badge&logo=visualstudio&logoColor=blue"/>
+ <img align="center" alt="" src="https://img.shields.io/badge/Quasar-35495E?style=for-the-badge&logo=Quasar&logoColor=blue"/>
+ <img align="center" alt="" src="https://img.shields.io/badge/Nest-js-35495E?style=for-the-badge&logo=mest.js&logoColor=blue"/>
 
  
 </div>
