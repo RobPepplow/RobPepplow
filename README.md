@@ -7,7 +7,7 @@
 - 👤 Tenho 39 anos e atualmente trabalho como autônomo na área de e-commerce. No entanto, tenho um grande desejo de atuar na área de programação web como programador Full Stack.
 - 📚 Durante os últimos 6 meses, dediquei-me a estudar e aprimorar minhas habilidades tanto em soft skills quanto em hard skills, buscando uma oportunidade na área para adquirir mais conhecimento e trabalhar com o que gosto.
 As tecnologias nas quais foram estudadas incluem ReactJS, NodeJS, Vue.js, HTML, CSS, JavaScript, um pouco de TypeScript e banco de dados como Firebase, MongoDB e MySQL, além de construção de servidor para API com NodeJS, Express e Nodemon.
-- 🏫 Atualmente, estou cursando o 2º semestre de Sistemas de Informação na Estácio, no modelo EAD, em Curitiba-PR.
+- 🏫 Atualmente, estou cursando o 3º período de Sistemas de Informação na Estácio, no modelo EAD, em Curitiba-PR.
 
 - ✉️ Contato: **robsonpepplow@gmail.com**
 - ⚡ Projetos: bit.ly/m/RobPepplow
