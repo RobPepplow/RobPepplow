@@ -4,13 +4,11 @@
 ## Seja Bem Vindo!🙏 
 <br>
 
-- 👤 Tenho 39 anos e atualmente trabalho como autônomo na área de e-commerce. No entanto, tenho um grande desejo de atuar na área de programação web como programador Full Stack.
-- 📚 Durante os últimos 6 meses, dediquei-me a estudar e aprimorar minhas habilidades tanto em soft skills quanto em hard skills, buscando uma oportunidade na área para adquirir mais conhecimento e trabalhar com o que gosto.
-As tecnologias nas quais foram estudadas incluem ReactJS, NodeJS, Vue.js, HTML, CSS, JavaScript, um pouco de TypeScript e banco de dados como Firebase, MongoDB e MySQL, além de construção de servidor para API com NodeJS, Express e Nodemon.
-- 🏫 Atualmente, estou cursando o 3º período de Sistemas de Informação na Estácio, no modelo EAD, em Curitiba-PR.
+- 👤 Sou um desenvolvedor full-stack apaixonado por inovação, atualmente contribuindo com soluções de ponta na Othree Tech Soluções, em Curitiba-PR, e em projetos particulares. Com 40 anos, sou casado, pai de três filhos e membro da Primeira Igreja do Evangelho Quadrangular. Minha vasta experiência em desenvolvimento web inclui tecnologias modernas como Angular, React, Vue.js, Nest.js e Firebase. Minha expertise abrange desde a criação de interfaces dinâmicas e intuitivas até a construção de APIs e microserviços robustos e escaláveis.
+- 📚 Sou movido pela otimização contínua de processos e pela entrega de soluções eficientes e de alta performance, sempre alinhadas às necessidades do negócio. Apaixonado por programação e áreas afins, me dedico a estudar e aprimorar minhas habilidades, tanto em soft skills quanto em hard skills. Estou sempre em busca de novas oportunidades para adquirir mais conhecimento e trabalhar com o que amo.
+- 🏫 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas – 1º Semestre 2024 - 2026 no Centro Universitário Uni Dom Bosco (EAD), Curitiba-PR.
 
 - ✉️ Contato: **robsonpepplow@gmail.com**
-- ⚡ Projetos: bit.ly/m/RobPepplow
 - Meu WebSite: https://robpepplow.github.io/Meu_Web_Site/
 <hr>
 <div align="center" style="backgrand: blue;">
@@ -64,6 +62,6 @@ As tecnologias nas quais foram estudadas incluem ReactJS, NodeJS, Vue.js, HTML, 
   
 
   
- ## TEL: <img height="20" width="20" src="https://user-images.githubusercontent.com/106199387/215279006-d0d6053d-6d04-4ef4-aec7-cf36fd133454.png"/>(41) 99810-2337 
+ ## TEL: <img height="20" width="20" src="https://user-images.githubusercontent.com/106199387/215279006-d0d6053d-6d04-4ef4-aec7-cf36fd133454.png"/>(41) 991558119
   
 </div>
